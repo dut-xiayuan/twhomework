@@ -1,7 +1,7 @@
-##thoughtwork homework说明文档
+## thoughtwork homework说明文档
 
 
-##代码结构
+## 代码结构
 
 * main/java/me/cwuyi/totw
     *  Client.java 程序入口，处理输入
@@ -12,7 +12,7 @@
 * test/java/me/cwuyi/totw
     *  ClientTest.java 测试类，包含题目中的两个用例的测试
 
-##测试用例运行
+## 测试用例运行
 1. 运行main文件夹下的Client，从控制台中输入测试用例
 2. 使用`mvn test`运行已添加的测试用例
 
